@@ -1,7 +1,7 @@
 package enigma;
 
 public class Rotor {
-
+    //test
     private int position;
     private int[] cipher = new int[26];
     private int[] bcipher = new int[26];
